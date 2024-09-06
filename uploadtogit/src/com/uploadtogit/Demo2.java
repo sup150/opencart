@@ -6,6 +6,7 @@ public class Demo2 {
 		// TODO Auto-generated method stub
 
 		System.out.println("I am creating 2nd commit");
+		System.out.println("demo1");
 	}
 
 }
